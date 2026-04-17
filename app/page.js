@@ -1,3 +1,4 @@
+import { Button } from "@/components/ui/button";
 import Image from "next/image";
 
 export default function Home() {
@@ -6,7 +7,7 @@ export default function Home() {
       tgtrhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhh
       guuu hkaefregrekngrkgnknger,klklfmklsdnfksdnfkjsdnfdsfd,
       so basically i have two folder inside this one root folder ,frontend and backend , and i am using shadcn ui ,which is just a library for our UI
-       
+       <Button variant="primary">Destructive</Button>
     </div>
   );
 }
